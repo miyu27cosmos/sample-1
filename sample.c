@@ -5,5 +5,6 @@ int main() {
     printf("hello Miyum!!");
     printf("Kousuke Gunji");
     printf("hello Kousuke!!");
+    ptintf("test");
     return 0;
 }
